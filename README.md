@@ -1,4 +1,4 @@
-#👋 Hi, I'm Artur Kaminski!
+## Hi, I'm Artur Kaminski!👋
 
 > Fullstack Software Engineer | DevOps Enthusiast | Automation Advocate
 
