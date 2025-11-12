@@ -17,18 +17,19 @@ React · Next.js · Angular · MaterialUI · HTML5 · CSS3
 **Backend**:
 Java · Spring Boot · Node.js · Rust · Express · RESTful APIs · GraphQL · Microservices Architecture · JMS
 
-Databases:
+**Databases**:
 PostgreSQL · MySQL · MongoDB · Redis · SQLite
 
-DevOps & Cloud:
+**DevOps & Cloud**:
 Docker · Kubernetes · Jenkins · GitHub Actions · Ansible · Terraform · Nginx · AWS · Azure
 
-Operating Systems:
+**Operating Systems**:
 Linux (Debian/Arch/Ubuntu/RHEL) · Windows · macOS
 
-Expertise:
+**Expertise**:
 
-CI/CD · DevOps/SysOps · Infrastructure as Code (IaC) · Bash/Python Automation · Observability & Monitoring (Prometheus, Grafana, SPLUNK, DynaTrace) · Systems Architecture
+ Systems Architecture · CI/CD · DevOps/SysOps · Infrastructure as Code (IaC) · Bash/Python Automation · Observability & Monitoring (Prometheus, Grafana, SPLUNK, DynaTrace)
+
 ---
 
 ### ⚡ What Drives Me
@@ -63,6 +64,7 @@ Restoring and maintaining automotive classics
 I see engineering as an ongoing craft — a combination of problem-solving, creativity, and curiosity.
 
 Whether it’s improving a CI/CD process, architecting a distributed system, fine-tuning a LLM, or learning a new language, I’m constantly pushing to bridge the gap between ideas and implementation.
+
 ---
 
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
