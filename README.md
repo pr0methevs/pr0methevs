@@ -1,15 +1,33 @@
 # 👋 Hi, I'm Artur Kaminski!
 
-## Fullstack Software Engineer
+## Fullstack Software Engineer | DevOps Enthusiast | Automation Advocate
 
-I thrive at the intersection of backend, frontend, and DevOps - building robust, scalable solutions from the ground up. 
+I’m a fullstack software engineer who thrives at the intersection of Backend, Frontend, and DevOps — designing, building, and maintaining robust systems that scale gracefully and perform efficiently.
+
+My approach blends a strong engineering foundation with a passion for automation and continuous improvement.
 
 My toolkit includes:
 
-- **Languages & Frameworks:** Java, Typescript, Python, Groovy, Bash, Lua, Rust
-- **Platforms:** Linux, Windows & MacOS
-- **Expertise:** CI/CD, DevOps/SysOps, Bash Scripting, Automation
+**Languages & Frameworks**:
+Java · TypeScript · Python · Groovy · Bash · Lua · Rust
 
+**Frontend**:
+React · Next.js · Angular · MaterialUI · HTML5 · CSS3
+
+**Backend**:
+Java · Spring Boot · Node.js · Rust · Express · RESTful APIs · GraphQL · Microservices Architecture · JMS
+
+Databases:
+PostgreSQL · MySQL · MongoDB · Redis · SQLite
+
+DevOps & Cloud:
+Docker · Kubernetes · Jenkins · GitHub Actions · Ansible · Terraform · Nginx · AWS · Azure
+
+Operating Systems:
+Linux (Debian/Arch/Ubuntu/RHEL) · Windows · macOS
+
+Expertise:
+CI/CD · DevOps/SysOps · Infrastructure as Code (IaC) · Bash/Python Automation · Observability & Monitoring (Prometheus, Grafana, SPLUNK, DynaTrace) · Systems Architecture
 ---
 
 ### ⚡ What Drives Me
@@ -17,20 +35,33 @@ My toolkit includes:
 > “The beautiful thing about learning is that no one can take it away from you.”  
 > — B. B. King
 
-I'm passionate about continuous improvement—learning something new every day and pushing the boundaries of what I know. Whether optimizing pipelines or automating complex tasks, I believe in making systems smarter and more efficient.
+I believe in the power of continuous learning — every project is an opportunity to discover, refine, and grow.
+From streamlining deployment pipelines to optimizing backend performance or experimenting with new frameworks, I’m always exploring ways to make systems more intelligent, efficient, and maintainable.
+
+I enjoy collaborating across disciplines — connecting the dots between software engineering, DevOps, and infrastructure to deliver solutions that not only work but scale elegantly.
 
 ---
 
 ### 🛠️ Beyond the Keyboard
 
-When I'm not coding, you'll find me:
+When I’m not deep in code or debugging CI pipelines, I like to build and experiment in the physical world too.
 
-- Crafting with **woodworking**
-- Looking for new services I can self-host / **Homelabbing** 
-- Learning about the world of **AI** and how to get the most out of it
-- Exploring **embedded engineering**
-- Restoring **automotive classics**
+You’ll often find me:
 
+Crafting in the workshop through woodworking projects
+
+Running and maintaining my homelab, testing new self-hosted tools and services
+
+Diving into AI and automation, exploring how to integrate intelligent workflows into everyday systems
+
+Tinkering with embedded engineering and hardware integration
+
+Restoring and maintaining automotive classics
+
+### Always Evolving
+I see engineering as an ongoing craft — a combination of problem-solving, creativity, and curiosity.
+
+Whether it’s improving a CI/CD process, architecting a distributed system, fine-tuning a LLM, or learning a new language, I’m constantly pushing to bridge the gap between ideas and implementation.
 ---
 
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
