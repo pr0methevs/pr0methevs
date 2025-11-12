@@ -1,34 +1,33 @@
-# 👋 Hi, I'm Artur Kaminski!
+#👋 Hi, I'm Artur Kaminski!
 
-## Fullstack Software Engineer | DevOps Enthusiast | Automation Advocate
+> Fullstack Software Engineer | DevOps Enthusiast | Automation Advocate
 
 I’m a fullstack software engineer who thrives at the intersection of Backend, Frontend, and DevOps — designing, building, and maintaining robust systems that scale gracefully and perform efficiently.
 
 My approach blends a strong engineering foundation with a passion for automation and continuous improvement.
 
-My toolkit includes:
+### 🛠️ My toolkit includes:
 
 **Languages & Frameworks**:
-Java · TypeScript · Python · Groovy · Bash · Lua · Rust
+- Java · TypeScript · Python · Groovy · Bash · Lua · Rust · C++ · Go
 
 **Frontend**:
-React · Next.js · Angular · MaterialUI · HTML5 · CSS3
+- React · Next.js · Angular · MaterialUI · HTML5 · CSS3
 
 **Backend**:
-Java · Spring Boot · Node.js · Rust · Express · RESTful APIs · GraphQL · Microservices Architecture · JMS
+- Java · Spring Boot · Node.js · Rust · Express · RESTful APIs · GraphQL · Microservices Architecture · JMS
 
 **Databases**:
-PostgreSQL · MySQL · MongoDB · Redis · SQLite
+- PostgreSQL · MySQL · MongoDB · Redis · SQLite
 
 **DevOps & Cloud**:
-Docker · Kubernetes · Jenkins · GitHub Actions · Ansible · Terraform · Nginx · AWS · Azure
+- Docker · Kubernetes · Jenkins · GitHub Actions · Ansible · Terraform · Nginx · AWS · Azure
 
 **Operating Systems**:
-Linux (Debian/Arch/Ubuntu/RHEL) · Windows · macOS
+- Linux (Debian/Arch/Ubuntu/RHEL) · Windows · macOS
 
 **Expertise**:
-
- Systems Architecture · CI/CD · DevOps/SysOps · Infrastructure as Code (IaC) · Bash/Python Automation · Observability & Monitoring (Prometheus, Grafana, SPLUNK, DynaTrace)
+ - Systems Architecture · CI/CD · DevOps/SysOps · Infrastructure as Code (IaC) · Bash/Python Automation · Observability & Monitoring (Prometheus, Grafana, SPLUNK, DynaTrace)
 
 ---
 
@@ -49,16 +48,11 @@ I enjoy collaborating across disciplines — connecting the dots between softwar
 When I’m not deep in code or debugging CI pipelines, I like to build and experiment in the physical world too.
 
 You’ll often find me:
-
-Crafting in the workshop through woodworking projects
-
-Running and maintaining my homelab, testing new self-hosted tools and services
-
-Diving into AI and automation, exploring how to integrate intelligent workflows into everyday systems
-
-Tinkering with embedded engineering and hardware integration
-
-Restoring and maintaining automotive classics
+- Crafting in the workshop through woodworking projects
+- Running and maintaining my homelab, testing new self-hosted tools and services
+- Diving into AI and automation, exploring how to integrate intelligent workflows into everyday systems
+- Tinkering with embedded engineering and hardware integration
+- Restoring and maintaining automotive classics
 
 ### Always Evolving
 I see engineering as an ongoing craft — a combination of problem-solving, creativity, and curiosity.
