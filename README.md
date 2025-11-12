@@ -27,6 +27,7 @@ Operating Systems:
 Linux (Debian/Arch/Ubuntu/RHEL) · Windows · macOS
 
 Expertise:
+
 CI/CD · DevOps/SysOps · Infrastructure as Code (IaC) · Bash/Python Automation · Observability & Monitoring (Prometheus, Grafana, SPLUNK, DynaTrace) · Systems Architecture
 ---
 
