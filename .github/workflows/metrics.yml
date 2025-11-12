@@ -17,7 +17,7 @@ jobs:
           token: ${{secrets.METRICS_TOKEN}}
 
           # Options
-          user: rishijs
+          user: pr0methevs
           template: classic
           base: header, activity, repositories, metadata
           config_display: large
@@ -38,4 +38,5 @@ jobs:
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
+
           plugin_languages_threshold: 0%
