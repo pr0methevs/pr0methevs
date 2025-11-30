@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=%3E+Artur;%3E+FullStack Developer;%3E+Proactive,+Analytical,+Innovative.&font=Fira%20Code&center=true&width=750&height=80&size=34&duration=4000&pause=1000&color=569CD6" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=%3E+Artur;%3E+FullStack_Engineer;%3E+Proactive,+Analytical,+Innovative.&font=Fira%20Code&center=true&width=750&height=80&size=34&duration=4000&pause=1000&color=569CD6" alt="Typing SVG">
 </p>
 
 > Fullstack Software Engineer | DevOps Enthusiast | Automation Advocate
