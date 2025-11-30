@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=%3E+Artur;%3E+FullStack_Engineer;%3E+Proactive,+Analytical,+Innovative.&font=Fira%20Code&center=true&width=750&height=80&size=34&duration=4000&pause=1000&color=569CD6" alt="Typing SVG">
 </p>
 
-I’m a Fullstack Software Engineer,DevOps Enthusiast, Automation Advocate who thrives at the intersection of Backend, Frontend, and DevOps — designing, building, and maintaining robust systems that scale gracefully and perform efficiently.
+I’m a Fullstack Software Engineer,DevOps Enthusiast, and Automation Advocate who thrives at the intersection of Backend, Frontend, and DevOps — designing, building, and maintaining robust systems that scale gracefully and perform efficiently.
 
 My approach blends a strong engineering foundation with a passion for automation and continuous improvement.
 
