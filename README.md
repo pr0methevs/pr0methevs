@@ -36,6 +36,10 @@ My approach blends a strong engineering foundation with a passion for automation
 > “The beautiful thing about learning is that no one can take it away from you.”  
 > — B. B. King
 
+I turn a radically diverse background into a competitive advantage. My expertise spans the physical and digital worlds—ranging from construction and automotive tech to graphic arts, software engineering, and CloudOps. 
+
+I use this 'strategic redundancy' to connect dots others miss, leveraging a hands-on, multidisciplinary mindset to adapt as technologies and economies evolve
+
 I believe in the power of continuous learning — every project is an opportunity to discover, refine, and grow.
 From streamlining deployment pipelines to optimizing backend performance or experimenting with new frameworks, I’m always exploring ways to make systems more intelligent, efficient, and maintainable.
 
